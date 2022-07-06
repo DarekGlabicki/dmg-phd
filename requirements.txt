@@ -17,8 +17,8 @@ botocore @ file:///home/conda/feedstock_root/build_artifacts/botocore_1634335927
 branca @ file:///home/conda/feedstock_root/build_artifacts/branca_1609346930842/work
 brotlipy==0.7.0
 cachetools @ file:///home/conda/feedstock_root/build_artifacts/cachetools_1633010882559/work
-Cartopy @ file:///home/conda/feedstock_root/build_artifacts/cartopy_1635466437971/work
-certifi==2022.5.18.1
+Cartopy @ file:///home/conda/feedstock_root/build_artifacts/cartopy_1656480031391/work
+certifi==2022.6.15
 cffi @ file:///home/conda/feedstock_root/build_artifacts/cffi_1631636250774/work
 cftime @ file:///home/conda/feedstock_root/build_artifacts/cftime_1649636863755/work
 chardet @ file:///home/conda/feedstock_root/build_artifacts/chardet_1610093492116/work
@@ -39,10 +39,10 @@ decorator @ file:///home/conda/feedstock_root/build_artifacts/decorator_16313468
 defusedxml @ file:///home/conda/feedstock_root/build_artifacts/defusedxml_1615232257335/work
 distributed @ file:///home/conda/feedstock_root/build_artifacts/distributed_1651523329869/work
 entrypoints @ file:///home/conda/feedstock_root/build_artifacts/entrypoints_1605121927639/work/dist/entrypoints-0.3-py2.py3-none-any.whl
-Fiona==1.8.20
+Fiona @ file:///home/conda/feedstock_root/build_artifacts/fiona_1653911972420/work
 folium @ file:///home/conda/feedstock_root/build_artifacts/folium_1615570722684/work
 fsspec @ file:///home/conda/feedstock_root/build_artifacts/fsspec_1648820545323/work
-GDAL==3.3.3
+GDAL==3.5.0
 geographiclib @ file:///home/conda/feedstock_root/build_artifacts/geographiclib_1624386157733/work
 geopandas @ file:///home/conda/feedstock_root/build_artifacts/geopandas_1634376623017/work
 geoplot @ file:///home/conda/feedstock_root/build_artifacts/geoplot_1631385916350/work
@@ -110,11 +110,12 @@ pyarrow==5.0.0
 pycparser @ file:///home/conda/feedstock_root/build_artifacts/pycparser_1593275161868/work
 pyct==0.4.6
 pydeck @ file:///home/conda/feedstock_root/build_artifacts/pydeck_1630093567483/work
-pygeos @ file:///home/conda/feedstock_root/build_artifacts/pygeos_1636052984408/work
+pygeos @ file:///home/conda/feedstock_root/build_artifacts/pygeos_1654387769766/work
 Pygments @ file:///home/conda/feedstock_root/build_artifacts/pygments_1629119114968/work
+pygmt @ file:///home/conda/feedstock_root/build_artifacts/pygmt_1656739445048/work
 pyOpenSSL @ file:///home/conda/feedstock_root/build_artifacts/pyopenssl_1633192417276/work
 pyparsing==2.4.7
-pyproj @ file:///home/conda/feedstock_root/build_artifacts/pyproj_1633060559349/work
+pyproj @ file:///home/conda/feedstock_root/build_artifacts/pyproj_1655447429853/work
 pyrsistent @ file:///home/conda/feedstock_root/build_artifacts/pyrsistent_1610146801554/work
 pyshp @ file:///home/conda/feedstock_root/build_artifacts/pyshp_1610646860606/work
 PySocks @ file:///home/conda/feedstock_root/build_artifacts/pysocks_1610291451001/work
@@ -123,7 +124,7 @@ pytz @ file:///home/conda/feedstock_root/build_artifacts/pytz_1633452062248/work
 pyviz-comms @ file:///home/conda/feedstock_root/build_artifacts/pyviz_comms_1648629824948/work
 PyYAML==6.0
 pyzmq @ file:///home/conda/feedstock_root/build_artifacts/pyzmq_1631793304627/work
-rasterio @ file:///home/conda/feedstock_root/build_artifacts/rasterio_1634058359641/work
+rasterio @ file:///home/conda/feedstock_root/build_artifacts/rasterio_1655500902011/work
 rasterstats @ file:///home/conda/feedstock_root/build_artifacts/rasterstats_1635874289163/work
 requests @ file:///home/conda/feedstock_root/build_artifacts/requests_1626393743643/work
 Rtree @ file:///home/conda/feedstock_root/build_artifacts/rtree_1626987845379/work
@@ -132,7 +133,7 @@ scikit-learn @ file:///home/conda/feedstock_root/build_artifacts/scikit-learn_16
 scipy @ file:///home/conda/feedstock_root/build_artifacts/scipy_1628206395139/work
 seaborn @ file:///home/conda/feedstock_root/build_artifacts/seaborn-split_1629095986539/work
 Send2Trash @ file:///home/conda/feedstock_root/build_artifacts/send2trash_1628511208346/work
-Shapely @ file:///home/conda/feedstock_root/build_artifacts/shapely_1636373446224/work
+Shapely @ file:///home/conda/feedstock_root/build_artifacts/shapely_1654372646138/work
 simplejson @ file:///home/conda/feedstock_root/build_artifacts/simplejson_1635862335704/work
 six @ file:///home/conda/feedstock_root/build_artifacts/six_1620240208055/work
 smmap @ file:///home/conda/feedstock_root/build_artifacts/smmap_1611376390914/work
