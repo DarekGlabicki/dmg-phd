@@ -80,10 +80,8 @@ dependencies:
   - freetype=2.10.4=h0708190_1
   - freexl=1.0.6=h7f98852_0
   - fsspec=2022.3.0=pyhd8ed1ab_0
-  - gdal=3.5.0=py39hc691d54_4
-  - geographiclib=1.52=pyhd8ed1ab_0
-  - geopandas=0.10.2=pyhd8ed1ab_0
-  - geopandas-base=0.10.2=pyha770c72_0
+  - gdal
+  - geopandas
   - geoplot=0.4.4=pyhd8ed1ab_0
   - geopy=2.2.0=pyhd8ed1ab_0
   - geos=3.10.3=h27087fc_0
@@ -317,4 +315,3 @@ dependencies:
   - zipp=3.6.0=pyhd8ed1ab_0
   - zlib=1.2.12=h166bdaf_1
   - zstd=1.5.2=h8a70e8d_2
-prefix: /home/darek/anaconda3/envs/geopython
